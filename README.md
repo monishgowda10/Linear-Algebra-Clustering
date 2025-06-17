@@ -23,11 +23,11 @@ This project demonstrates the use of linear algebra in data science, focusing on
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/repo-name.git
+   git clone https://github.com/monishgowda10/repo-name.git
    ```
 2. Install required dependencies:
    ```bash
-   pip install -r requirements.txt
+  run ipynb file
    ```
 
 ## Usage
