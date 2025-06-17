@@ -31,7 +31,7 @@ This project demonstrates the use of linear algebra in data science, focusing on
    ```
 
 ## Usage
-1. Open the Colab notebook: [Assignment_1–_Linear_Algebra.ipynb](link-to-colab-notebook)
+1. Open the Colab notebook: [Linear_Algebra_&_Clustering.ipynb](https://colab.research.google.com/drive/1P2wFYIqfq8LiJn1f7LhL0J8I5GgvqQgD?usp=sharing)
 2. Upload `bank.csv` data.
 3. Run the cells to perform data analysis and visualization.
 
