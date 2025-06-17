@@ -24,3 +24,25 @@ This project demonstrates the use of linear algebra in data science, focusing on
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/repo-name.git
+   ```
+2. Install required dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+## Usage
+1. Open the Colab notebook: [Assignment_1–_Linear_Algebra.ipynb](link-to-colab-notebook)
+2. Upload `bank.csv` data.
+3. Run the cells to perform data analysis and visualization.
+
+## Results
+- The primary components for data variance and corresponding reductions are identified.
+- Cluster analysis reveals distinct groupings, providing insights into potential customer segmentation.
+
+![Scatter Plot](link-to-scatter-plot-image)
+
+## Contributing
+Contributions are welcome! Please create a pull request or report issues.
+
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
